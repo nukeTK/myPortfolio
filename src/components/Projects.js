@@ -3,7 +3,7 @@ import { Box, Stack} from "@mui/system";
 import React from "react";
 import nft from "../images/nft.jpg";
 import cfunding from "../images/crowdfunding.jpg";
-import lottery from "../images/lottery.jpg";
+import lottery from "../images/token.jpg";
 import staking from "../images/staking.png";
 import styled from "styled-components";
 const Overlay = styled(Box)`
@@ -186,7 +186,7 @@ const Projects = () => {
               variant="h6"
               sx={{
                 textAlign: "center",
-                padding: "80px",
+                padding: "60px",
                 opacity: "0",
                 "&:hover": {
                   opacity: "1",
@@ -204,15 +204,15 @@ const Projects = () => {
                   fontWeight: 500,
                 }}
               >
-                LOTTERY DAPP
+                DEXAGGREGATOR SWAPTOKEN DAPP
               </Typography>
-              SOLIDITY | REACT.JS | ETHERS.JS | HARDHAT | BOOTSTRAP
+               REACT.JS | ETHERS.JS | 0x API | MATERIAL UI
               <br></br>
               <Link
                 target="_blank"
-                href="https://github.com/nukeTK/LotteryDapp"
+                href="https://nuketk.github.io/DEXAggregatorSwapTokenDapp/"
               >
-                <Button variant="contained">VISIT THE CODE</Button>
+                <Button variant="contained">VISIT THE WEBSITE</Button>
               </Link>
             </Typography>
           </Overlay>
@@ -245,7 +245,7 @@ const Projects = () => {
               variant="h6"
               sx={{
                 textAlign: "center",
-                padding: "80px",
+                padding: "60px",
                 opacity: "0",
                 "&:hover": {
                   opacity: "1",
