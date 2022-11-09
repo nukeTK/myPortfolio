@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.8f825df9.css",
-    "main.js": "/myPortfolio/static/js/main.909ce2a6.js",
+    "main.js": "/myPortfolio/static/js/main.1704031d.js",
     "static/media/mine.jpg": "/myPortfolio/static/media/mine.f4ed80d83218d2354d3c.jpg",
     "static/media/nft.jpg": "/myPortfolio/static/media/nft.e2bb0eb80481e056d908.jpg",
-    "static/media/lottery.jpg": "/myPortfolio/static/media/lottery.0f4fe93e33bfb06d7364.jpg",
     "static/media/crowdfunding.jpg": "/myPortfolio/static/media/crowdfunding.37d0c496a6181e5ed6b4.jpg",
+    "static/media/token.jpg": "/myPortfolio/static/media/token.c529521d53cf7a27315b.jpg",
     "static/media/solidity.png": "/myPortfolio/static/media/solidity.d08ab6c02fba5cf68029.png",
     "static/media/staking.png": "/myPortfolio/static/media/staking.27617f88627678d3fb70.png",
     "static/media/truffle.png": "/myPortfolio/static/media/truffle.0c84dcae5b62475afc7c.png",
@@ -18,10 +18,10 @@
     "static/media/ethersjs.png": "/myPortfolio/static/media/ethersjs.eaa073a1fcc0fc618c45.png",
     "index.html": "/myPortfolio/index.html",
     "main.8f825df9.css.map": "/myPortfolio/static/css/main.8f825df9.css.map",
-    "main.909ce2a6.js.map": "/myPortfolio/static/js/main.909ce2a6.js.map"
+    "main.1704031d.js.map": "/myPortfolio/static/js/main.1704031d.js.map"
   },
   "entrypoints": [
     "static/css/main.8f825df9.css",
-    "static/js/main.909ce2a6.js"
+    "static/js/main.1704031d.js"
   ]
 }
