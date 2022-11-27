@@ -4,7 +4,7 @@ import React from "react";
 import nft from "../images/nft.jpg";
 import cfunding from "../images/crowdfunding.jpg";
 import lottery from "../images/token.jpg";
-import staking from "../images/staking.png";
+import dex from "../images/dex.jpg";
 import styled from "styled-components";
 const Overlay = styled(Box)`
   :hover {
@@ -228,7 +228,7 @@ const Projects = () => {
             position: "relative",
           }}
         >
-          <img className="nft" alt="nft" src={staking} />
+          <img className="nft" alt="nft" src={dex} />
           <Overlay
             sx={{
               position: "absolute",
@@ -263,12 +263,12 @@ const Projects = () => {
                   fontWeight: 500,
                 }}
               >
-                STAKING DAPP
+                DECENTRALIZED EXCHANGE
               </Typography>
               SOLIDITY | REACT.JS | ETHERS.JS | HARDHAT | MATERIAL UI
               <br></br>
-              <Link target="_blank" href="http://nukeTK.github.io/StakingDapp">
-                <Button variant="contained">VISIT THE WEBSITE</Button>
+              <Link target="_blank" href="https://github.com/nukeTK/DecentralizedExchnage">
+                <Button variant="contained">VISIT THE CODE</Button>
               </Link>
             </Typography>
           </Overlay>
